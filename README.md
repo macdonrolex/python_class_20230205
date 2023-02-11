@@ -1,0 +1,2 @@
+# python_class_20230211
+高企協python資料分析班第二週
